@@ -6,4 +6,4 @@
 
 API_ID = ''
 API_HASH = ''
-TOKEN = ''
+TOKEN = '5896634185:AAHb5SyM6yEy-1mwMuCU6BLdxlksB8XSLCE'
